@@ -32,6 +32,5 @@
     "react-native": "*"
   },
   "dependencies": {
-    "react-native-webview": "^9.0.1"
   }
 }
